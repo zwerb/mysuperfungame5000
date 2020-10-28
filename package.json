@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/FullstackAcademy/guessing-game#readme",
   "devDependencies": {
+    "jasmine": "^3.6.2",
     "testem": "^2.14.0"
+  },
+  "dependencies": {
+    "sass": "^1.27.0"
   }
 }

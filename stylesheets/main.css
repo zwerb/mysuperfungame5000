@@ -1,0 +1,25 @@
+/* Write your CSS code in this file */
+/*  run command from main repo dir: $ npx sass sass/:stylesheets/  */
+body {
+  color: #222;
+}
+
+#header div {
+  text-align: center;
+}
+
+#remaining-guesses div {
+  text-align: center;
+}
+
+#guess-box div {
+  text-align: center;
+}
+
+#previous-guesses div {
+  text-align: center;
+}
+
+/*  run command from main repo dir: $ npx sass sass/:stylesheets/ */
+
+/*# sourceMappingURL=main.css.map */

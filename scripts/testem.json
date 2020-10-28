@@ -1,0 +1,5 @@
+{
+  "framework": "jasmine2",
+  "src_files": ["**/*.js", "../specs/*-specs.js","../tests*-tests.js"],
+  "src_files_ignore": ["../node_modules/**/*"]
+}
