@@ -1,23 +1,17 @@
 # Zwerb's Guessing Game
-A fork of FSA Guessing Game
 
-## Application Launch
+A fork of FullStackAcademy's Guessing Game
 
-```
-index.html
-```
+Please navigate to the public repository or GitHub Page
 
-## Project Setup
-
-1. Fork / Clone the Repo:
-2. cd into the repo
-
-3. install dependencies:
+## GitHub Hosted Page:
 
 ```
-npm install
+https://zwerb.github.io/guessing_game/
 ```
 
-4. Open index.html in a browser
+## Public Repo:
 
-TODO: install live-server for npm and configure it so the user can just run npx xx to launch the app
+```
+https://github.com/zwerb/guessing_game
+```
